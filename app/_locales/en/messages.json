@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "expand github activity",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "expand the collapsed activiy flow on the home page of github",
+    "description": "The description of the application"
+  }
+}
