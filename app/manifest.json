@@ -1,6 +1,6 @@
 {
   "name": "GitHub Util",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "manifest_version": 2,
   "description": "A util that add misc enhance to github.com, for now it only expand the collapsed activity feed.",
   "icons": {
